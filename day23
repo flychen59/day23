@@ -2,6 +2,61 @@ encoder_decoder
 https://blog.csdn.net/NGUever15/article/details/123198978?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165301024316781818712699%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165301024316781818712699&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-123198978-null-null.142^v10^pc_search_result_control_group,157^v4^control&utm_term=enconder+decoder&spm=1018.2226.3001.4187
 
 
+解决CommandNotFoundError: Your shell has not been properly configured to use ‘conda activate’
+https://blog.csdn.net/chenjadeli/article/details/122726378?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165302911016782248594137%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165302911016782248594137&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-122726378-null-null.142^v10^pc_search_result_control_group,157^v4^control&utm_term=commandnotfoundError+your&spm=1018.2226.3001.4187
+
 
 colab
+基本使用(安装anconda)
 https://blog.csdn.net/weixin_42417819/article/details/115632173?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165302630116782391871163%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165302630116782391871163&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-115632173-null-null.142^v10^pc_search_result_control_group,157^v4^control&utm_term=google+colab%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8Bgpu&spm=1018.2226.3001.4187
+
+
+配置深度学习环境
+  https://blog.csdn.net/weixin_43722842/article/details/119057504?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165302714716781483757268%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165302714716781483757268&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-2-119057504-null-null.142^v10^pc_search_result_control_group,157^v4^control&utm_term=colab%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83&spm=1018.2226.3001.4187
+  
+https://blog.csdn.net/stn54999/article/details/119796179?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165302828316781483794636%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=165302828316781483794636&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-1-119796179-null-null.142^v10^pc_search_result_control_group,157^v4^control&utm_term=colab%E8%99%9A%E6%8B%9F%E7%8E%AF%E5%A2%83+nvidia-smi&spm=1018.2226.3001.4187
+
+
+卷积层
+
+https://blog.csdn.net/weixin_43972154/article/details/120196350?ops_request_misc=&request_id=&biz_id=102&utm_term=convolution%E5%B1%82&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-2-120196350.142^v10^pc_search_result_control_group,157^v4^control&spm=1018.2226.3001.4187
+
+
+
+https://blog.csdn.net/weixin_44121966/article/details/118550389?ops_request_misc=&request_id=&biz_id=102&utm_term=convolution%E5%B1%82&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-118550389.142^v10^pc_search_result_control_group,157^v4^control&spm=1018.2226.3001.4187
+
+
+卷积层，pooling,全链接层
+
+https://blog.csdn.net/CP18281638639/article/details/117418615?ops_request_misc=&request_id=&biz_id=102&utm_term=convolution%E5%B1%82%20%20%E4%BD%9C%E7%94%A8&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-117418615.142^v10^pc_search_result_control_group,157^v4^control&spm=1018.2226.3001.4187
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
